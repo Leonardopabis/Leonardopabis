@@ -25,3 +25,48 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de Engenharia de Software.
+
+💻 Apaixonado por desenvolvimento de software
+
+🚀 Atualmente focado em evoluir minhas habilidades, principalmente em Front-End
+
+🎯 Sempre em busca de novas oportunidades de evolução
+
+💪​ Com o objetivo de construir aplicações modernas, intuitivas e bem estruturadas.
+
+---
+
+## 🚀 Tecnologias
+
+### Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+  <!-- react -->
+</p>
+
+### Back-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,nodejs" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
