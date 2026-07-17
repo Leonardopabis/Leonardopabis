@@ -70,3 +70,10 @@
 </p>
 
 ---
+
+<a href="https://github.com/Leonardopabis/Injecao-de-ramais">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Injecao-de-ramais&theme=tokyonight" />
+</a>
+<a href="https://github.com/Leonardopabis/Gestao-Financeira">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Gestao-Financeira&theme=tokyonight" />
+</a>
