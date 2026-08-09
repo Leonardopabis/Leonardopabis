@@ -77,3 +77,7 @@
 <a href="https://github.com/Leonardopabis/Gestao-Financeira">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Gestao-Financeira&theme=tokyonight" />
 </a>
+<p></p>
+<a href="https://github.com/Leonardopabis/Lista-de-nomes">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Lista-de-nomes&theme=tokyonight" />
+</a>
