@@ -70,7 +70,9 @@
 </p>
 
 ---
-
+<a href="https://github.com/Leonardopabis/CineFlix">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=CineFlix&theme=tokyonight" />
+</a>
 <a href="https://github.com/Leonardopabis/Injecao-de-ramais">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Injecao-de-ramais&theme=tokyonight" />
 </a>
