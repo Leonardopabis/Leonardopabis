@@ -70,16 +70,35 @@
 </p>
 
 ---
+
+## 📌 Projeto em destaque
+
 <a href="https://github.com/Leonardopabis/CineFlix">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=CineFlix&theme=tokyonight" />
+  <img width="50%" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=CineFlix&theme=tokyonight" />
 </a>
-<a href="https://github.com/Leonardopabis/Injecao-de-ramais">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Injecao-de-ramais&theme=tokyonight" />
-</a>
-<a href="https://github.com/Leonardopabis/Gestao-Financeira">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Gestao-Financeira&theme=tokyonight" />
-</a>
-<p></p>
-<a href="https://github.com/Leonardopabis/Lista-de-nomes">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Lista-de-nomes&theme=tokyonight" />
-</a>
+
+---
+
+## 📂 Outros projetos
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Leonardopabis/Injecao-de-ramais">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Injecao-de-ramais&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Leonardopabis/Gestao-Financeira">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Gestao-Financeira&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Leonardopabis/Lista-de-nomes">
+        <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardopabis&repo=Lista-de-nomes&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
