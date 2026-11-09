@@ -13,15 +13,20 @@
 
 <p align="center">
   <a href="https://pabisdev.com.br">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-pabisdev.com.br-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white">
+    <img height="50" alt="Acessar meu portfólio" src="https://img.shields.io/badge/%F0%9F%8C%90%20Acessar%20meu%20portf%C3%B3lio-pabisdev.com.br%20%E2%9E%9C-7aa2f7?style=for-the-badge&labelColor=1a1b26">
   </a>
+  <br>
+  <sub>👆 Clique para ver meus projetos em <a href="https://pabisdev.com.br"><b>pabisdev.com.br</b></a></sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/Leonardopabis">
     <img src="https://img.shields.io/badge/Profile-GitHub-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/leonardo-f-pabis-140727389">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:SEUEMAIL">
+  <a href="mailto:leofilipake@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.instagram.com/leo_pabis/">
